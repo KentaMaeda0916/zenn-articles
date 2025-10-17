@@ -82,3 +82,5 @@ npx zenn preview
 - 記事は実践的で実体験に基づいたものにする
 - ツールやワークフローを説明する際は具体例とスクリーンショットを使用する
 - Zennのマークダウン形式の規約に従う
+- その他詳細なルールは以下のドキュメントを参照する
+https://zenn.dev/zenn/articles/zenn-cli-guide
