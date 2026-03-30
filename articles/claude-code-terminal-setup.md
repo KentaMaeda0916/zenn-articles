@@ -2,8 +2,8 @@
 title: "Claude Code の「完了待ち」から解放されるターミナル開発環境"
 emoji: "🖥️"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["claudecode", "tmux", "terminal", "個人開発", "ai"]
-published: false
+topics: ["claudecode", "terminal", "lazygit", "開発環境", "個人開発"]
+published: true
 ---
 
 普段 Claude Code でスマホアプリを個人開発しています。
